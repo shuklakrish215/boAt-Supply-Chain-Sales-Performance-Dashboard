@@ -1,0 +1,8 @@
+supplier_id,supplier_key,supplier_name,country,city,specialty,tier,avg_quality_score
+1,SUP-CN-GOE-001,Goertek Inc.,China,Shenzhen,Audio Drivers & Acoustic Components,Tier 1,97.2
+2,SUP-TW-AIR-002,Airoha Technology Corp,Taiwan,Hsinchu,Bluetooth SoC & Chipsets,Tier 1,96.5
+3,SUP-TW-MTK-003,MediaTek Inc.,Taiwan,Hsinchu,Wearable & Audio Processors,Tier 1,98.0
+4,SUP-JP-TDK-004,TDK Corporation,Japan,Tokyo,Battery Cells,Tier 1,97.5
+5,SUP-CN-BOE-005,BOE Technology Group,China,Beijing,Smartwatch Display Panels,Tier 1,95.8
+6,SUP-VN-LUX-006,Luxshare Precision Vietnam,Vietnam,Thai Nguyen,Final Assembly (TWS & Wearables),Tier 2,94.9
+7,SUP-IN-DIX-007,Dixon Technologies India,India,Noida,Regional Assembly (PLI Scheme),Tier 2,93.8

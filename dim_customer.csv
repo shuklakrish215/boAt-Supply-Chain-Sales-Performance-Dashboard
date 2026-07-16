@@ -1,0 +1,6 @@
+customer_id,customer_key,customer_name,country,channel_type,size,annual_volume_usd
+1,CUST-IN-AMZ-001,Amazon India,India,Online,Large,180000000
+2,CUST-IN-CRO-001,Croma (Infiniti Retail),India,Retailer,Large,60000000
+3,CUST-IN-RD-001,Reliance Digital,India,Retailer,Large,55000000
+4,CUST-IN-FLP-001,Flipkart,India,Online,Large,150000000
+5,CUST-IN-D2C-001,boAt.com (D2C),India,Direct,Large,95000000
